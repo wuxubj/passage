@@ -1,0 +1,17 @@
+## 概念
+### 线性空间
+设V是n维向量的集和，若集合V非空，且集合V对于n维向量的加法及数乘两种运算封闭，即：% 
+$$x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}$$
+\\(x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}\\)
+
+% MathType!MTEF!2!1!+-
+% feaaguart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn
+% hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr
+% 4rNCHbWexLMBbXgBd9gzLbvyNv2CaeHbl7mZLdGeaGqiVu0Je9sqqr
+% pepC0xbbL8F4rqqrFfpeea0xe9Lq-Jc9vqaqpepm0xbba9pwe9Q8fs
+% 0-yqaqpepae9pg0FirpepeKkFr0xfr-xfr-xb9adbaqaaeGaciGaai
+% aabeqaamaabaabauaakeaacaWG4bGaeyypa0ZaaSaaaeaacqGHsisl
+% caWGIbGaeyySae7aaOaaaeaacaWGIbWaaWbaaSqabeaacaaIYaaaaO
+% GaeyOeI0IaaGinaiaadggacaWGJbaaleqaaaGcbaGaaGOmaiaadgga
+% aaaaaa!4C0C!
+\[x = \frac{{ - b \pm \sqrt {{b^2} - 4ac} }}{{2a}}\]
